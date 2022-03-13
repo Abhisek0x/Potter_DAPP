@@ -1,0 +1,18 @@
+{
+	"CONTRACT_ADDRESS": "0xc6E93A94007f92c1FED21e277AC5b7e2C05C686F",
+	"SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc6E93A94007f92c1FED21e277AC5b7e2C05C686F",
+	"NETWORK": {
+		"NAME": "Polyon",
+		"SYMBOL": "POLYGON",
+		"ID": 4
+	},
+	"NFT_NAME": "Harry-Potter",
+	"SYMBOL": "SVHP",
+	"MAX_SUPPLY": 20,
+	"WEI_COST": 50000000000000000,
+	"DISPLAY_COST": 0.0,
+	"GAS_LIMIT": 285000,
+	"MARKETPLACE": "Opeansea",
+	"MARKETPLACE_LINK": "https://testnets.opensea.io/0xc6e93a94007f92c1fed21e277ac5b7e2c05c686f",
+	"SHOW_BACKGROUND": true
+}
