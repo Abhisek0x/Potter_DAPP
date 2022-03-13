@@ -1,4 +1,4 @@
-# Welcome to Cosmo Infinitas 👄
+# Welcome to Cosmo Infinitas
 
 # Cosmo NFT minting dapp 🔥
 
@@ -79,7 +79,7 @@ Remember to update the title and description the `public/index.html` file
 
 ```html
 <title>Harry Potter Cards</title>
-<meta name="description" content="Mint your Nerdy Coder Clone NFT" />
+<meta name="description" content="Mint your NFT" />
 ```
 
 Also remember to update the short_name and name fields in the
